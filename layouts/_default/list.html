@@ -1,15 +1,21 @@
-{{define "main"}}
-<h1>{{.Title}} </h1>
-{{range .Pages}}
-<div class="blog-preview">
-    {{with .Params.image}}
-    <img src="{{.}}" alt="{{$.Title}}">
-    {{end}}
+{{ define "main" }}
+<section class="blog-list">
+  <h1>{{ .Title }}</h1>
+
+  {{ range .Pages.ByDate.Reverse }}
+  <article class="blog-preview">
+    {{ with .Params.image }}
+    <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" />
+    {{ end }}
+
     <div class="content">
-        <h2><a href="{{.Permalink}}"> {{.Title}} </a></h2>
-        <p>{{.Summary}} </p>
-        <a class="read-more" href="{{.Permalink}} ">Đọc →</a>
+      <h2>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </h2>
+      <p>{{ .Summary }}</p>
+      <a class="read-more" href="{{ .RelPermalink }}">Đọc →</a>
     </div>
-</div>
-{{end}}
-{{end}}
+  </article>
+  {{ end }}
+</section>
+{{ end }}
