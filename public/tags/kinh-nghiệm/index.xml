@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kinh Nghiệm on BlogLapTrinhJava</title>
+    <link>http://localhost:1313/tags/kinh-nghi%E1%BB%87m/</link>
+    <description>Recent content in Kinh Nghiệm on BlogLapTrinhJava</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/kinh-nghi%E1%BB%87m/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bài 9: Cách để thăng tiến khi học và thực tập lập trình Java</title>
+      <link>http://localhost:1313/blog/my-ninth-post/</link>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-ninth-post/</guid>
+      <description>&lt;p&gt;Bước vào giai đoạn &lt;strong&gt;học và thực tập lập trình Java&lt;/strong&gt;, bạn không chỉ học cách viết code, mà còn đang &lt;strong&gt;xây nền tảng cho sự nghiệp lập trình viên chuyên nghiệp&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

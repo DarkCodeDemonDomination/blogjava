@@ -1,0 +1,13 @@
+baseURL = 'https://example.com/'
+relativeURLs = true 
+canonifyURLs = true 
+languageCode = 'en-us'
+title = 'BlogLapTrinhJava'
+theme = "PaperMod"
+
+[params]
+hero_image = "/image/anhnen.jpg"
+
+
+[markup.goldmark.renderer]
+unsafe = true

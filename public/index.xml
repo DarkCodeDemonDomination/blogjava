@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BlogLapTrinhJava</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on BlogLapTrinhJava</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bài 9: Cách để thăng tiến khi học và thực tập lập trình Java</title>
+      <link>http://localhost:1313/blog/my-ninth-post/</link>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-ninth-post/</guid>
+      <description>&lt;p&gt;Bước vào giai đoạn &lt;strong&gt;học và thực tập lập trình Java&lt;/strong&gt;, bạn không chỉ học cách viết code, mà còn đang &lt;strong&gt;xây nền tảng cho sự nghiệp lập trình viên chuyên nghiệp&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bài 8: Kỹ năng làm việc nhóm trong lập trình Java</title>
+      <link>http://localhost:1313/blog/my-eighth-post/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-eighth-post/</guid>
+      <description>&lt;p&gt;Lập trình không chỉ là việc viết code một mình — mà còn là &lt;strong&gt;nghệ thuật làm việc cùng người khác&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bài 7: Lập trình mạng TCP &amp; UDP trong Java</title>
+      <link>http://localhost:1313/blog/my-seventh-post/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-seventh-post/</guid>
+      <description>&lt;p&gt;Khi làm việc với các ứng dụng thực tế, đặc biệt là những ứng dụng cần &lt;strong&gt;truyền dữ liệu giữa các máy tính&lt;/strong&gt;, bạn sẽ cần đến &lt;strong&gt;lập trình mạng (Network Programming)&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bài 6: Mảng (Array) trong Java</title>
+      <link>http://localhost:1313/blog/my-sixth-post/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-sixth-post/</guid>
+      <description>&lt;p&gt;Sau khi đã hiểu về &lt;strong&gt;vòng lặp&lt;/strong&gt; trong bài trước, hôm nay chúng ta sẽ tìm hiểu một khái niệm cực kỳ quan trọng trong lập trình: &lt;strong&gt;Mảng (Array)&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bài 5: Vòng lặp trong Java</title>
+      <link>http://localhost:1313/blog/my-fifth-post/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-fifth-post/</guid>
+      <description>&lt;p&gt;Ở các bài trước, bạn đã học cách chương trình &lt;strong&gt;ra quyết định&lt;/strong&gt; bằng cấu trúc điều kiện.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bài 4: Cấu trúc điều kiện trong Java</title>
+      <link>http://localhost:1313/blog/my-fourth-post/</link>
+      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-fourth-post/</guid>
+      <description>&lt;p&gt;Sau khi đã tìm hiểu về &lt;strong&gt;toán tử và biểu thức&lt;/strong&gt; trong Java, bước tiếp theo trong hành trình lập trình của bạn là học cách &lt;strong&gt;ra quyết định&lt;/strong&gt; trong chương trình.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bài 3: Toán tử và biểu thức trong Java</title>
+      <link>http://localhost:1313/blog/my-third-post/</link>
+      <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-third-post/</guid>
+      <description>&lt;p&gt;Trong hai bài học trước, bạn đã biết cách khai báo biến và hiểu rõ về các kiểu dữ liệu trong Java.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bài 2: Các kiểu dữ liệu và biến trong Java</title>
+      <link>http://localhost:1313/blog/my-second-post/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-second-post/</guid>
+      <description>&lt;p&gt;Sau khi đã làm quen với cách viết chương trình “Xin chào thế giới!” ở &lt;strong&gt;Bài 1&lt;/strong&gt;, bây giờ chúng ta sẽ tìm hiểu về một khái niệm nền tảng của mọi ngôn ngữ lập trình: &lt;strong&gt;biến (variable)&lt;/strong&gt; và &lt;strong&gt;kiểu dữ liệu (data type)&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Liên hệ với tôi</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h1 id=&#34;-kết-nối-cùng-tôi&#34;&gt;💬 Kết nối cùng tôi&lt;/h1&gt;
+&lt;p&gt;Cảm ơn bạn đã ghé thăm! Nếu bạn có câu hỏi, muốn hợp tác, hoặc chỉ đơn giản là muốn trò chuyện về lập trình, công nghệ hay ý tưởng sáng tạo — đừng ngần ngại liên hệ nhé.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-địa-chỉ&#34;&gt;🏡 Địa chỉ&lt;/h2&gt;
+&lt;p&gt;📍 &lt;strong&gt;91/5/11 Linh Trung, Thủ Đức, TP. Hồ Chí Minh&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-email&#34;&gt;✉️ Email&lt;/h2&gt;
+&lt;p&gt;📧 &lt;strong&gt;&lt;a href=&#34;mailto:arimakana616@gmail.com&#34;&gt;arimakana616@gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-điện-thoại&#34;&gt;📞 Điện thoại&lt;/h2&gt;
+&lt;p&gt;📱 &lt;strong&gt;0328 351 157&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-kết-nối-mạng-xã-hội&#34;&gt;🌐 Kết nối mạng xã hội&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 &lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt; &lt;em&gt;(thêm link GitHub của bạn nếu có)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;💼 &lt;a href=&#34;https://linkedin.com/&#34;&gt;LinkedIn&lt;/a&gt; &lt;em&gt;(thêm link LinkedIn của bạn nếu có)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;📸 &lt;a href=&#34;https://instagram.com/&#34;&gt;Instagram&lt;/a&gt; &lt;em&gt;(nếu có)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://facebook.com/&#34;&gt;Facebook&lt;/a&gt; &lt;em&gt;(nếu có)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-lời-nhắn-nhỏ&#34;&gt;🌟 Lời nhắn nhỏ&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Mỗi dòng code là một bước tiến gần hơn tới ước mơ – đừng sợ sai, chỉ sợ không bắt đầu.”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Về bản thân tôi</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;div align=&#34;center&#34;&gt;
+  &lt;div style=&#34;display: inline-block; background: #fff; padding: 8px; border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.25);&#34;&gt;
+    &lt;img 
+      src=&#34;./image/anhprofile.jpg&#34; 
+      alt=&#34;Nguyễn Thanh Phong&#34; 
+      style=&#34;width: 260px; height: 360px; object-fit: cover; border-radius: 8px;&#34;
+    &gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;-giới-thiệu&#34;&gt;👨‍💻 Giới thiệu&lt;/h2&gt;
+&lt;p&gt;Tôi là &lt;strong&gt;Nguyễn Thanh Phong&lt;/strong&gt;, một người đam mê &lt;strong&gt;công nghệ và lập trình&lt;/strong&gt;.&lt;br&gt;
+Hiện tại tôi là sinh viên năm 4 lớp 22DTHA3, trường Đại học HUTECH, đang theo đuổi con đường &lt;strong&gt;Developer&lt;/strong&gt;, với kiến thức nền tảng và kinh nghiệm trong việc làm việc với &lt;strong&gt;ngôn ngữ Java&lt;/strong&gt;.&lt;br&gt;
+Tôi thích tìm tòi, học hỏi và áp dụng các công nghệ mới vào thực tế để &lt;strong&gt;tạo ra những sản phẩm có ích cho mọi người&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bài 1: Giới thiệu cơ bản về lập trình Java</title>
+      <link>http://localhost:1313/blog/my-first-post/</link>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-first-post/</guid>
+      <description>&lt;p&gt;Java là một trong những ngôn ngữ lập trình phổ biến và mạnh mẽ nhất trên thế giới.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

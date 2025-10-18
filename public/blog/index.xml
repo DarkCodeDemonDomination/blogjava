@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on BlogLapTrinhJava</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on BlogLapTrinhJava</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bài 9: Cách để thăng tiến khi học và thực tập lập trình Java</title>
+      <link>http://localhost:1313/blog/my-ninth-post/</link>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-ninth-post/</guid>
+      <description>&lt;p&gt;Bước vào giai đoạn &lt;strong&gt;học và thực tập lập trình Java&lt;/strong&gt;, bạn không chỉ học cách viết code, mà còn đang &lt;strong&gt;xây nền tảng cho sự nghiệp lập trình viên chuyên nghiệp&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bài 8: Kỹ năng làm việc nhóm trong lập trình Java</title>
+      <link>http://localhost:1313/blog/my-eighth-post/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-eighth-post/</guid>
+      <description>&lt;p&gt;Lập trình không chỉ là việc viết code một mình — mà còn là &lt;strong&gt;nghệ thuật làm việc cùng người khác&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bài 7: Lập trình mạng TCP &amp; UDP trong Java</title>
+      <link>http://localhost:1313/blog/my-seventh-post/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-seventh-post/</guid>
+      <description>&lt;p&gt;Khi làm việc với các ứng dụng thực tế, đặc biệt là những ứng dụng cần &lt;strong&gt;truyền dữ liệu giữa các máy tính&lt;/strong&gt;, bạn sẽ cần đến &lt;strong&gt;lập trình mạng (Network Programming)&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bài 6: Mảng (Array) trong Java</title>
+      <link>http://localhost:1313/blog/my-sixth-post/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-sixth-post/</guid>
+      <description>&lt;p&gt;Sau khi đã hiểu về &lt;strong&gt;vòng lặp&lt;/strong&gt; trong bài trước, hôm nay chúng ta sẽ tìm hiểu một khái niệm cực kỳ quan trọng trong lập trình: &lt;strong&gt;Mảng (Array)&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bài 5: Vòng lặp trong Java</title>
+      <link>http://localhost:1313/blog/my-fifth-post/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-fifth-post/</guid>
+      <description>&lt;p&gt;Ở các bài trước, bạn đã học cách chương trình &lt;strong&gt;ra quyết định&lt;/strong&gt; bằng cấu trúc điều kiện.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bài 4: Cấu trúc điều kiện trong Java</title>
+      <link>http://localhost:1313/blog/my-fourth-post/</link>
+      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-fourth-post/</guid>
+      <description>&lt;p&gt;Sau khi đã tìm hiểu về &lt;strong&gt;toán tử và biểu thức&lt;/strong&gt; trong Java, bước tiếp theo trong hành trình lập trình của bạn là học cách &lt;strong&gt;ra quyết định&lt;/strong&gt; trong chương trình.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bài 3: Toán tử và biểu thức trong Java</title>
+      <link>http://localhost:1313/blog/my-third-post/</link>
+      <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-third-post/</guid>
+      <description>&lt;p&gt;Trong hai bài học trước, bạn đã biết cách khai báo biến và hiểu rõ về các kiểu dữ liệu trong Java.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bài 2: Các kiểu dữ liệu và biến trong Java</title>
+      <link>http://localhost:1313/blog/my-second-post/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-second-post/</guid>
+      <description>&lt;p&gt;Sau khi đã làm quen với cách viết chương trình “Xin chào thế giới!” ở &lt;strong&gt;Bài 1&lt;/strong&gt;, bây giờ chúng ta sẽ tìm hiểu về một khái niệm nền tảng của mọi ngôn ngữ lập trình: &lt;strong&gt;biến (variable)&lt;/strong&gt; và &lt;strong&gt;kiểu dữ liệu (data type)&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bài 1: Giới thiệu cơ bản về lập trình Java</title>
+      <link>http://localhost:1313/blog/my-first-post/</link>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-first-post/</guid>
+      <description>&lt;p&gt;Java là một trong những ngôn ngữ lập trình phổ biến và mạnh mẽ nhất trên thế giới.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,50 @@
+{{define "main"}}
+<section class="hero" 
+{{with .Site.Params.hero_image}} 
+style="
+  background-image: url('{{.}}'); 
+  background-size: cover; 
+  background-position: center; 
+  border-radius: 20px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+  overflow: hidden;
+  margin: 30px auto;
+  max-width: 1200px;
+  position: relative;
+"
+{{end}}
+>
+  <div style="
+    background: rgba(0, 0, 0, 0.4);
+    width: 100%;
+    height: 100%;
+    padding: 100px 20px;
+    border-radius: 20px;
+    ">
+    <div class="container">
+        <h1 class="hero-title" style="color: #00FFFF; text-shadow: 0 0 10px rgba(0,255,255,0.8);">
+            Chào mừng đến với Website Blog học tập Lập trình Java
+        </h1>
+        <p class="hero-text" style="color: #fff; text-shadow: 0 0 6px rgba(0,0,0,0.6);">
+            Khơi dậy niềm đam mê chinh phục tri thức trong từng dòng code – học lập trình không chỉ là viết ra những câu lệnh vô tri, mà là rèn luyện tư duy logic, kiên trì vượt qua từng lỗi sai, khám phá cách thế giới vận hành qua từng thuật toán, và quan trọng hơn hết là xây dựng niềm tin rằng chỉ cần đủ nỗ lực, bạn có thể biến ý tưởng nhỏ bé thành những sản phẩm vĩ đại
+        </p>
+    </div>
+  </div>
+</section>
+
+
+<h1>Bài đăng mới nhất gần đây:</h1>
+{{range $i, $p := first 10 (where .Site.RegularPages "Type" "blog")}}
+<div class="blog-preview {{if modBool $i 2}}reverse{{end}}"   >
+    {{with $p.Params.image}}
+    <img src="{{.}}" alt="{{$p.Title}}">
+    {{end}}
+
+    <div class="content">
+        <h2>{{$p.Title}} </h2>
+        <p> {{$p.Summary}} </p>
+        <a href="{{$p.RelPermalink}}" class="read-more">Đọc →</a>
+    </div>
+</div>
+{{end}}
+{{end}}

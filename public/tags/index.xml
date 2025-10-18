@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on BlogLapTrinhJava</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on BlogLapTrinhJava</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Học Lập Trình</title>
+      <link>http://localhost:1313/tags/h%E1%BB%8Dc-l%E1%BA%ADp-tr%C3%ACnh/</link>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/h%E1%BB%8Dc-l%E1%BA%ADp-tr%C3%ACnh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>http://localhost:1313/tags/java/</link>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kinh Nghiệm</title>
+      <link>http://localhost:1313/tags/kinh-nghi%E1%BB%87m/</link>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kinh-nghi%E1%BB%87m/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thực Tập</title>
+      <link>http://localhost:1313/tags/th%E1%BB%B1c-t%E1%BA%ADp/</link>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/th%E1%BB%B1c-t%E1%BA%ADp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kỹ Năng Mềm</title>
+      <link>http://localhost:1313/tags/k%E1%BB%B9-n%C4%83ng-m%E1%BB%81m/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/k%E1%BB%B9-n%C4%83ng-m%E1%BB%81m/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Làm Việc Nhóm</title>
+      <link>http://localhost:1313/tags/l%C3%A0m-vi%E1%BB%87c-nh%C3%B3m/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/l%C3%A0m-vi%E1%BB%87c-nh%C3%B3m/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lập Trình Mạng</title>
+      <link>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh-m%E1%BA%A1ng/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh-m%E1%BA%A1ng/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TCP</title>
+      <link>http://localhost:1313/tags/tcp/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tcp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UDP</title>
+      <link>http://localhost:1313/tags/udp/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/udp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lập Trình</title>
+      <link>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
